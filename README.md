@@ -3,7 +3,8 @@ Here, Basically we created an spam message detector with an apk file with two mo
 We, also created models for fake URL dectection. We trained several models for it.
 We, also created models for Bitcoin address validator
 
-##Datasets used
+
+Datasets used
 Spam multinomial NB - spam.csv 
 Spam transformer - train.csv
 Phishing_URL_Detection - phishing.csv
